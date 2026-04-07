@@ -9,7 +9,7 @@ To begin a career in cybersecurity where I can defend systems against threats wh
 
 ## Skills
 
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
