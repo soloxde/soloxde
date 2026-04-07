@@ -47,8 +47,8 @@ To begin a career in cybersecurity where I can defend systems against threats wh
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SIEM Implementation and Log Analysis 
+- Network Traffic Monitoring and Attack Detection
 
 <!--
 **soloxde/soloxde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
