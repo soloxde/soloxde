@@ -13,7 +13,7 @@ To begin a career in cybersecurity where I can defend systems against threats wh
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/soloxde/SIEM-Implementation-and-Log-Analysis/edit/main/README.md">SIEM Implementation and Log Analysis</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/soloxde/SIEM-Implementation-and-SSH-Log-Analysis">SIEM Implementation and Log Analysis</a>|
 | Network Traffic Monitoring and Attack Detection (In Progress) | <a href="https://google.com">Detection Lab</a>|
 
 
