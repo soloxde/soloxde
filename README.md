@@ -47,7 +47,7 @@ To begin a career in cybersecurity where I can defend systems against threats wh
 </div>
 
 ## Projects
--  <a href="https://github.com/soloxde/SIEM-Implementation-and-Log-Analysis/edit/main/README.md">SIEM Implementation and Log Analysis</a> 
+-  <a href="https://github.com/soloxde/SIEM-Implementation-and-SSH-Log-Analysis/tree/main">SIEM Implementation and Log Analysis</a> 
 - Network Traffic Monitoring and Attack Detection
 
 <!--
