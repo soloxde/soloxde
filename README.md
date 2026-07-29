@@ -18,7 +18,7 @@ To begin a career in cybersecurity where I can defend systems against threats wh
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
